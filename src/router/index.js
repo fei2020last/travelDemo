@@ -5,25 +5,24 @@
  * @Description: 
  * @Date: 2023-03-08 12:37:28
  * @LastEditors: mayf
- * @LastEditTime: 2023-03-08 13:06:06
+ * @LastEditTime: 2023-03-08 19:54:51
  * @FilePath: \travelDemo\src\router\index.js
  */
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
-
 Vue.use(Router)
 const  routes = [
     {
       path: '/',
-      name: 'HelloWorld',
-      component: HelloWorld
+      redirect: '/index',
+      
     },
-    // {
-    //   path: '/websocket',
-    //   name: 'Websocket',
-    //   component: () => import( '../views/Websocket.vue')
-    // },
+    {
+      path: '/index',
+      name: 'index',
+      component: () => import( '../views/index.vue')
+    },
+    
   ]
 const router = new Router({
   mode: 'history',

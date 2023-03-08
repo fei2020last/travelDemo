@@ -17,6 +17,21 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+}
+
+@media only screen and (max-width: 1600px) and (min-width: 1280px) {
+  html {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 1280px) and (min-width: 960px) {
+  html {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 960px) {
+  html {
+    font-size: 10px;
+  }
 }
 </style>
