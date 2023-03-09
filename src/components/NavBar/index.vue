@@ -1,50 +1,135 @@
+<!--
+ * @Project: APM
+ * @version: v1.0 r
+ * @Author: mayf
+ * @Description: 
+ * @Date: 2023-03-08 20:51:22
+ * @LastEditors: mayf
+ * @LastEditTime: 2023-03-09 21:40:32
+ * @FilePath: \travelDemo\src\components\NavBar\index.vue
+-->
 <template>
   <div class="nav-bar-container">
-    <div class="container">
-      <a class="navbar-brand" href="https://kawakubo-lab.ws.hosei.ac.jp">
-        <img
-          alt="Brand"
-          src="https://kawakubo-lab.ws.hosei.ac.jp/favicon/brand-300x300.png"
-          width="30"
-          height="30"
-        />
-        &nbsp;
-        <div>川久保研究室</div>
-      </a>
-      <div class="collapse navbar-collapse">
-        <ul
-          class="navbar-nav ml-auto my-2 my-lg-0"
-          v-for="(item, index) in tabs"
-          :key="index"
+    <div
+      class="navbar navbar-expand-lg navbar-light bg-white py-2"
+      style="z-index: 10000!important"
+    >
+      <div class="container">
+        <a
+          class="navbar-brand text-primary"
+          href="https://kawakubo-lab.ws.hosei.ac.jp"
         >
-          <li
-            class="nav-item"
-            :class="{ 'is-checked': activeName == item }"
-            @click.stop="getActiveTab(item)"
-          >
-            {{ item }}
-          </li>
-        </ul>
+          <img
+            alt="Brand"
+            src="https://kawakubo-lab.ws.hosei.ac.jp/favicon/brand-300x300.png"
+            width="30"
+            height="30"
+          />
+          川久保研究室
+        </a>
+        <button
+          class="navbar-toggler navbar-toggler-right"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarResponsive"
+          aria-controls="navbarResponsive"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- tabs标签 -->
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto my-2 my-lg-0">
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                :class="{
+                  'disabled text-primary': active == 'TOP',
+                  'text-muted': active != 'TOP'
+                }"
+                @click.stop="getActiveTab('TOP')"
+                >TOP</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                :class="{
+                  'disabled text-primary': active == 'About',
+                  'text-muted': active != 'About'
+                }"
+                @click.stop="getActiveTab('About')"
+                >About</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                :class="{
+                  'disabled text-primary': active == 'Contact',
+                  'text-muted': active != 'Contact'
+                }"
+                @click.stop="getActiveTab('Contact')"
+                >Contact</a
+              >
+            </li>
+          </ul>
+        </div>
       </div>
+    </div>
+    <div>
+      <div class="d-none d-md-block">
+        <div class="row mx-0">
+          <div
+            class="col"
+            v-for="(item, index) in colorList"
+            :key="index"
+            :style="`height:3px;background:${item}`"
+          ></div>
+        </div>
+      </div>
+      <div
+        class="d-md-none border-bottom border-primary"
+        style="border-width: 3px !important"
+      ></div>
     </div>
   </div>
 </template>
 <script>
 export default {
+  name: "NavBar",
   components: {},
   data() {
     return {
-      tabs: ["TOP", "About", "Contact"],
-      activeName: ""
+      active: "TOP",
+      colorList: [
+        "#E5243B",
+        "#DDA63A",
+        "#4C9F38",
+        "#C5192D",
+        "#FF3A22",
+        "#27BDE2",
+        "#FCC30C",
+        "#A21942",
+        "#FE6926",
+        "#DD1367",
+        "#FD9D24",
+        "#BF8B2E",
+        "#3F7E44",
+        "#0B97D9",
+        "#56C02A",
+        "#00689D",
+        "#19486A"
+      ]
     };
   },
   computed: {},
   watch: {},
   methods: {
-    getActiveTab(item) {
-      this.activeName = item;
-      console.log(111);
-      this.$emit("activeName", this.activeName);
+    getActiveTab(val) {
+      this.active = val;
+      this.$emit("activeName", val);
     }
   },
   created() {
@@ -54,110 +139,5 @@ export default {
 </script>
 <style lang="scss" scoped>
 .nav-bar-container {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0.5rem 1rem;
-  @media (min-width: 576px) {
-    .container {
-      max-width: 540px;
-    }
-  }
-  @media (min-width: 768px) {
-    .container {
-      max-width: 720px;
-    }
-  }
-  @media (min-width: 992px) {
-    .container {
-      max-width: 960px;
-      flex-wrap: nowrap !important;
-    }
-  }
-  @media (min-width: 1200px) {
-    .container {
-      max-width: 1140px;
-    }
-  }
-  .container {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-between;
-    .navbar-brand {
-      display: inline-block;
-      padding-top: 0.32rem;
-      padding-bottom: 0.32rem;
-      margin-right: 1rem;
-      font-size: 1.125rem;
-      line-height: inherit;
-      white-space: nowrap;
-      color: #008000;
-      display: flex;
-      align-items: center;
-    }
-    @media (min-width: 992px) {
-      .navbar-collapse {
-        display: flex !important;
-        flex-basis: auto;
-      }
-    }
-    .navbar-collapse {
-      flex-basis: 100%;
-      flex-grow: 1;
-      align-items: center;
-    }
-    @media (min-width: 992px) {
-      .navbar-expand-lg .navbar-nav {
-        flex-direction: row;
-      }
-      .mb-lg-0,
-      .my-lg-0 {
-        margin-bottom: 0 !important;
-        margin-top: 0 !important;
-      }
-    }
-    .ml-auto,
-    .mx-auto {
-      margin-left: auto !important;
-    }
-    .navbar-nav {
-      display: flex;
-      flex-direction: column;
-      padding-left: 0;
-      margin-bottom: 0;
-      list-style: none;
-    }
-
-    // ---------------------
-
-    @media (min-width: 992px) {
-      .nav-item {
-        padding-right: 0.5rem;
-        padding-left: 0.5rem;
-      }
-    }
-    .nav-item {
-      padding: 0.5rem 1rem;
-      color: rgba(0, 0, 0, 0.5);
-      font-family: "Nunito", sans-serif;
-      font-size: 0.9rem;
-      font-weight: 400;
-      line-height: 1.6;
-      cursor: pointer;
-      &:hover {
-        color: rgba(0, 0, 0, 0.7);
-      }
-    }
-    .is-checked {
-      color: #008000;
-    }
-  }
 }
 </style>

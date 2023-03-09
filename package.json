@@ -12,7 +12,8 @@
   "dependencies": {
     "amfe-flexible": "^2.2.1",
     "element-ui": "^2.15.13",
-    "lib-flexible": "^0.3.2",
+    "postcss-px2rem": "^0.3.0",
+    "postcss-pxtorem": "^6.0.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
@@ -39,7 +40,6 @@
     "portfinder": "^1.0.13",
     "postcss-import": "^11.0.0",
     "postcss-loader": "^2.1.6",
-    "postcss-pxtorem": "^5.1.1",
     "postcss-url": "^7.2.1",
     "rimraf": "^2.6.0",
     "sass": "^1.58.3",
