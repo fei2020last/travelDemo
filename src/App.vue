@@ -1,6 +1,18 @@
+<!--
+ * @Project: APM
+ * @version: v1.0 r
+ * @Author: mayf
+ * @Description: 
+ * @Date: 2023-03-08 19:43:35
+ * @LastEditors: mayf
+ * @LastEditTime: 2023-03-13 21:22:10
+ * @FilePath: \travelDemo\src\App.vue
+-->
 <template>
   <div id="app">
-    <router-view />
+    <keep-alive>
+      <router-view />
+    </keep-alive>
   </div>
 </template>
 
@@ -9,27 +21,3 @@ export default {
   name: "App"
 };
 </script>
-
-<style>
-#app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
-}
-@media only screen and (max-width: 960px) {
-  html {
-    font-size: 10px;
-  }
-}
-@media only screen and (max-width: 1280px) and (min-width: 960px) {
-  html {
-    font-size: 12px;
-  }
-}
-@media only screen and (max-width: 1600px) and (min-width: 1280px) {
-  html {
-    font-size: 14px;
-  }
-}
-</style>

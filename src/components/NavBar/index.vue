@@ -5,7 +5,7 @@
  * @Description: 
  * @Date: 2023-03-08 20:51:22
  * @LastEditors: mayf
- * @LastEditTime: 2023-03-09 21:40:32
+ * @LastEditTime: 2023-03-13 21:14:51
  * @FilePath: \travelDemo\src\components\NavBar\index.vue
 -->
 <template>
@@ -35,11 +35,16 @@
           aria-controls="navbarResponsive"
           aria-expanded="false"
           aria-label="Toggle navigation"
+          @click.stop="showTabs"
         >
           <span class="navbar-toggler-icon"></span>
         </button>
         <!-- tabs标签 -->
-        <div class="collapse navbar-collapse" id="navbarResponsive">
+        <div
+          class="navbar-collapse show"
+          id="navbarResponsive"
+          :class="{ checked: show }"
+        >
           <ul class="navbar-nav ml-auto my-2 my-lg-0">
             <li class="nav-item">
               <a
@@ -99,6 +104,7 @@
 <script>
 export default {
   name: "NavBar",
+  props: {},
   components: {},
   data() {
     return {
@@ -121,7 +127,8 @@ export default {
         "#56C02A",
         "#00689D",
         "#19486A"
-      ]
+      ],
+      show: false
     };
   },
   computed: {},
@@ -130,6 +137,9 @@ export default {
     getActiveTab(val) {
       this.active = val;
       this.$emit("activeName", val);
+    },
+    showTabs() {
+      this.show = !this.show;
     }
   },
   created() {
@@ -139,5 +149,18 @@ export default {
 </script>
 <style lang="scss" scoped>
 .nav-bar-container {
+  .navbar-collapse {
+    position: relative;
+    overflow: hidden;
+    transition: height 0.35s ease;
+  }
+  @media only screen and (max-width: 960px) {
+    .navbar-collapse {
+      height: 0;
+    }
+  }
+  .checked {
+    height: 125px !important;
+  }
 }
 </style>

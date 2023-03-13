@@ -94,81 +94,28 @@
         </div>
         <div class="mt-5 row mx-0">
           <div class="col-3 col-md text-center">
+            <!--   href="https://kawakubo-lab.ws.hosei.ac.jp" -->
             <a
-              href="https://kawakubo-lab.ws.hosei.ac.jp"
+              @click.stop="getActiveTab('TOP')"
               class="text-decoration-none"
+              style="cursor: pointer;"
               >TOP</a
             >
           </div>
           <div class="col-3 col-md text-center">
+            <!-- href="https://kawakubo-lab.ws.hosei.ac.jp/about" -->
             <a
-              href="https://kawakubo-lab.ws.hosei.ac.jp/news"
+              @click.stop="getActiveTab('About')"
               class="text-decoration-none"
-              >News</a
-            >
-          </div>
-          <div class="col-3 col-md text-center">
-            <a
-              href="https://kawakubo-lab.ws.hosei.ac.jp/about"
-              class="text-decoration-none"
+              style="cursor: pointer;"
               >About</a
             >
           </div>
           <div class="col-3 col-md text-center">
+            <!-- href="https://kawakubo-lab.ws.hosei.ac.jp/contact" -->
             <a
-              href="https://kawakubo-lab.ws.hosei.ac.jp/research"
-              class="text-decoration-none"
-              >Research</a
-            >
-          </div>
-          <div class="col-3 col-md text-center dropdown">
-            <a
-              class="dropdown-toggle text-decoration-none"
-              href="#"
-              role="button"
-              id="dropdownMenuLink"
-              data-toggle="dropdown"
-              aria-haspopup="true"
-              aria-expanded="false"
-              >Publication</a
-            >
-            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-              <a
-                class="dropdown-item"
-                href="https://kawakubo-lab.ws.hosei.ac.jp/publication/video"
-                >関連動画</a
-              >
-              <a
-                class="dropdown-item"
-                href="https://kawakubo-lab.ws.hosei.ac.jp/publication/book"
-                >関連書籍</a
-              >
-            </div>
-          </div>
-          <div class="col-3 col-md text-center">
-            <a
-              href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/info"
-              class="text-decoration-none"
-              >SDGs</a
-            >
-          </div>
-          <div class="col-3 col-md text-center">
-            <a
-              href="https://kawakubo-lab.ws.hosei.ac.jp/application"
-              class="text-decoration-none"
-              >App.</a
-            >
-          </div>
-          <div class="col-3 col-md text-center">
-            <a
-              href="https://kawakubo-lab.ws.hosei.ac.jp/access"
-              class="text-decoration-none"
-              >Access</a
-            >
-          </div>
-          <div class="col-3 col-md text-center">
-            <a
-              href="https://kawakubo-lab.ws.hosei.ac.jp/contact"
+              @click.stop="getActiveTab('Contact')"
+              style="cursor: pointer;"
               class="text-decoration-none"
               >Contact</a
             >
@@ -221,7 +168,11 @@ export default {
   },
   computed: {},
   watch: {},
-  methods: {},
+  methods: {
+    getActiveTab(val) {
+      this.$emit("activeName", val);
+    }
+  },
   created() {}
 };
 </script>

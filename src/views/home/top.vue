@@ -5,7 +5,7 @@
  * @Description: 
  * @Date: 2023-03-08 19:52:21
  * @LastEditors: mayf
- * @LastEditTime: 2023-03-09 21:50:16
+ * @LastEditTime: 2023-03-13 21:20:47
  * @FilePath: \travelDemo\src\views\home\top.vue
 -->
 <template>
@@ -22,7 +22,7 @@
         class="carousel slide carousel-fade bg-white"
       >
         <div class="carousel-inner">
-          <div class="carousel-item">
+          <div class="carousel-item active">
             <img
               src="https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab0.jpg"
               class="w-100"
@@ -34,7 +34,7 @@
               class="w-100"
             />
           </div>
-          <div class="carousel-item active">
+          <div class="carousel-item">
             <img
               src="https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab2.jpg"
               class="w-100"
@@ -54,6 +54,7 @@
       style="opacity: 0.3;"
     ></div>
     <div
+      v-if="showTip"
       role="alert"
       class="alert alert-dismissible fade show rounded-0 border-top-0 border-right-0 border-left-0 border-bottom border-w-3 border-primary bg-light"
     >
@@ -63,6 +64,7 @@
           data-dismiss="alert"
           aria-label="Close"
           class="close"
+          @click.stop="showTip = false"
         >
           <span aria-hidden="true">×</span>
         </button>
@@ -82,10 +84,7 @@
               d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 110c23.196 0 42 18.804 42 42s-18.804 42-42 42-42-18.804-42-42 18.804-42 42-42zm56 254c0 6.627-5.373 12-12 12h-88c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h12v-64h-12c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h64c6.627 0 12 5.373 12 12v100h12c6.627 0 12 5.373 12 12v24z"
             ></path>
           </svg>
-          川久保研究室では現在、ポスドク・研究補助員・秘書を募集しております。ご関心のある方は<a
-            href="/contact"
-            >こちら</a
-          >からご連絡ください。
+          川久保研究室では現在、ポスドク・研究補助員・秘書を募集しております。ご関心のある方は<a>こちら</a>からご連絡ください。
         </strong>
       </div>
     </div>
@@ -111,7 +110,7 @@
       </p>
       <p class="lead text-center px-4 text-shadow">
         <br class="d-lg-none" />
-        <a href="/sdgs/info" class="text-decoration-none"
+        <a class="text-decoration-none"
           >「持続可能な開発目標（SDGs: Sustainable Development Goals）とは</a
         >
       </p>
@@ -119,63 +118,63 @@
         <div class="col-md-6">
           <div class="row">
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal1"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal1.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal2"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal2.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal3"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal3.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal4"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal4.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal5"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal5.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal6"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal6.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal7"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal7.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal8"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal8.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal9"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal9.png"
                   class="w-100"
@@ -186,56 +185,56 @@
         <div class="col-md-6">
           <div class="row">
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal10"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal10.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal11"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal11.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal12"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal12.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal13"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal13.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal14"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal14.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal15"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal15.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal16"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal16.png"
                   class="w-100"
               /></a>
             </div>
             <div class="col p-1">
-              <a href="https://kawakubo-lab.ws.hosei.ac.jp/sdgs/goal17"
+              <a
                 ><img
                   src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal17.png"
                   class="w-100"
@@ -253,10 +252,7 @@
 
       <p class="lead text-center px-4 text-shadow mt-lg-2">
         <br class="d-lg-none" />
-        <a
-          href="https://local-sdgs-research.net/"
-          target="_blank"
-          class="text-decoration-none"
+        <a target="_blank" class="text-decoration-none"
           >環境研究総合推進費 研究課題 1-2104
           ローカルSDGs推進による地域課題の解決に関する研究 HPはこちら</a
         >
@@ -268,11 +264,7 @@
         <div class="col-lg-6 align-self-stretch">
           <div class="bg-white p-4 p-sm-5 h-100 shadow">
             <h2 class="text-center text-primary mb-0">
-              <a
-                href="https://kawakubo-lab.ws.hosei.ac.jp/news"
-                class="text-decoration-none"
-                >News</a
-              >
+              <a class="text-decoration-none">News</a>
             </h2>
             <p class="text-center small text-muted">最新トピックス</p>
             <div class="py-2 ">
@@ -280,10 +272,7 @@
                 2月15日
               </small>
               <h3 class="h5 mb-0 text-truncate">
-                <a
-                  href="https://kawakubo-lab.ws.hosei.ac.jp/news/detail/59"
-                  class="text-decoration-none"
-                >
+                <a class="text-decoration-none">
                   鎌田君、有坂君、高畑君がAIJ 若手優秀賞受賞を受賞しました
                 </a>
               </h3>
@@ -310,10 +299,7 @@
                 1月19日
               </small>
               <h3 class="h5 mb-0 text-truncate">
-                <a
-                  href="https://kawakubo-lab.ws.hosei.ac.jp/news/detail/58"
-                  class="text-decoration-none"
-                >
+                <a class="text-decoration-none">
                   博士課程在籍中の増田大美さんの公聴会を実施します
                 </a>
               </h3>
@@ -334,10 +320,7 @@
                 2022年12月
               </small>
               <h3 class="h5 mb-0 text-truncate">
-                <a
-                  href="https://kawakubo-lab.ws.hosei.ac.jp/news/detail/57"
-                  class="text-decoration-none"
-                >
+                <a class="text-decoration-none">
                   「SDGsターゲットパネル」を公開しました
                 </a>
               </h3>
@@ -360,10 +343,7 @@
                 2022年10月
               </small>
               <h3 class="h5 mb-0 text-truncate">
-                <a
-                  href="https://kawakubo-lab.ws.hosei.ac.jp/news/detail/56"
-                  class="text-decoration-none"
-                >
+                <a class="text-decoration-none">
                   脱炭素ボードゲームCN2050を開発しました
                 </a>
               </h3>
@@ -377,10 +357,7 @@
                 2022年7月
               </small>
               <h3 class="h5 mb-0 text-truncate">
-                <a
-                  href="https://kawakubo-lab.ws.hosei.ac.jp/news/detail/55"
-                  class="text-decoration-none"
-                >
+                <a class="text-decoration-none">
                   住環境と居住者の健康状態に関する研究成果が国際誌に掲載されました
                 </a>
               </h3>
@@ -393,10 +370,7 @@
               </p>
             </div>
             <div class="mt-3 text-right">
-              <a
-                href="https://kawakubo-lab.ws.hosei.ac.jp/news"
-                class="text-decoration-none"
-              >
+              <a class="text-decoration-none">
                 ニュース一覧
                 <svg
                   class="svg-inline--fa fa-arrow-circle-right fa-w-16"
@@ -420,11 +394,7 @@
         <div class="col-lg-6 mt-5 mt-lg-0 align-self-stretch">
           <div class="bg-white p-4 p-sm-5 h-100 shadow">
             <h2 class="text-center text-primary mb-0">
-              <a
-                href="https://kawakubo-lab.ws.hosei.ac.jp/about"
-                class="text-decoration-none"
-                >About</a
-              >
+              <a class="text-decoration-none">About</a>
             </h2>
             <p class="text-center small text-muted mb-0">
               川久保研究室・研究室メンバーについて
@@ -440,10 +410,7 @@
               環境工学の視点から未来のあるべき建築・都市像を探求しています。建築・都市は、我々人間にとって重要な生活基盤・社会インフラです。良質な建築・都市環境が確保されなければ快適・健康的な生活はできません。
             </p>
             <div class="text-right">
-              <a
-                href="https://kawakubo-lab.ws.hosei.ac.jp/about"
-                class="text-decoration-none"
-              >
+              <a class="text-decoration-none">
                 さらに詳しく
                 <svg
                   class="svg-inline--fa fa-arrow-circle-right fa-w-16"
@@ -469,10 +436,7 @@
         <div class="col-lg-6 align-self-stretch">
           <div class="bg-white p-4 p-sm-5 h-100 shadow">
             <h2 class="text-center text-primary mb-0">
-              <a
-                href="https://kawakubo-lab.ws.hosei.ac.jp/research"
-                class="text-decoration-none"
-              >
+              <a class="text-decoration-none">
                 Research
               </a>
             </h2>
@@ -537,10 +501,7 @@
               川久保研究室では、自治体・建築産業とSDGsに関する研究や、建築環境が我々人間へ及ぼす影響の研究を行っています。
             </p>
             <div class="text-right">
-              <a
-                href="https://kawakubo-lab.ws.hosei.ac.jp/research"
-                class="text-decoration-none"
-              >
+              <a class="text-decoration-none">
                 さらに詳しく
                 <svg
                   class="svg-inline--fa fa-arrow-circle-right fa-w-16"
@@ -564,10 +525,7 @@
         <div class="mt-5 mt-lg-0 col-lg-6 align-self-stretch">
           <div class="bg-white p-4 p-sm-5 h-100 shadow">
             <h2 class="text-center mb-0">
-              <a
-                href="https://kawakubo-lab.ws.hosei.ac.jp/application"
-                class="text-decoration-none"
-              >
+              <a class="text-decoration-none">
                 Application
               </a>
             </h2>
@@ -585,10 +543,7 @@
               川久保研究室は、SDGsに積極的に取り組む方々を支援するオンラインアプリケーションを開発・公開しています。
             </p>
             <div class="text-right">
-              <a
-                href="https://kawakubo-lab.ws.hosei.ac.jp/application"
-                class="text-decoration-none"
-              >
+              <a class="text-decoration-none">
                 さらに詳しく
                 <svg
                   class="svg-inline--fa fa-arrow-circle-right fa-w-16"
@@ -618,7 +573,9 @@ export default {
   name: "Top",
   components: {},
   data() {
-    return {};
+    return {
+      showTip: true
+    };
   },
   computed: {},
   watch: {},

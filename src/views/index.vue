@@ -5,14 +5,14 @@
  * @Description: 
  * @Date: 2023-03-08 13:18:07
  * @LastEditors: mayf
- * @LastEditTime: 2023-03-09 22:22:21
+ * @LastEditTime: 2023-03-13 20:59:50
  * @FilePath: \travelDemo\src\views\index.vue
 -->
 <template>
   <div class="index-container">
     <nav-bar @activeName="getActiveName" />
     <component :is="activeName" />
-    <footer-bar />
+    <footer-bar @activeName="getActiveName" />
   </div>
 </template>
 
