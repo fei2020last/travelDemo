@@ -5,7 +5,7 @@
  * @Description: 
  * @Date: 2023-03-08 19:52:21
  * @LastEditors: mayf
- * @LastEditTime: 2023-03-14 13:16:31
+ * @LastEditTime: 2023-03-14 19:11:42
  * @FilePath: \travelDemo\src\views\home\top.vue
 -->
 <template>
@@ -100,133 +100,62 @@
         <div class="col-md-6">
           <div class="row">
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal1.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal1.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal2.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal2.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal3.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal3.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal4.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal4.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal5.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal5.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal6.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal6.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal7.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal7.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal8.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal8.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal9.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal9.png" class="w-100"/></a>
             </div>
           </div>
         </div>
         <div class="col-md-6">
           <div class="row">
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal10.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal10.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal11.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal11.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal12.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal12.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal13.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal13.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal14.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal14.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal15.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal15.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal16.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal16.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <a
-                ><img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal17.png"
-                  class="w-100"
-              /></a>
+              <a><img src="../../assets/goal17.png" class="w-100"/></a>
             </div>
             <div class="col p-1">
-              <img
-                src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal18.png"
-                class="w-100"
-              />
+              <img src="../../assets/goal18.png" class="w-100" />
             </div>
           </div>
         </div>
@@ -383,7 +312,7 @@
             </p>
             <div class="text-center pt-3">
               <img
-                src="https://kawakubo-lab.ws.hosei.ac.jp/images/about.jpg"
+                src="../../assets/about.jpg"
                 class="rounded w-100"
                 style="max-width: 350px;"
               />
@@ -428,25 +357,25 @@
                 <div class="col-1"></div>
                 <div class="col-2 p-0">
                   <img
-                    src="https://kawakubo-lab.ws.hosei.ac.jp/images/thumbnails/research/research1.png"
+                    src="../../assets/research1.png"
                     class="w-100 rounded-circle"
                   />
                 </div>
                 <div class="col-2 p-0">
                   <img
-                    src="https://kawakubo-lab.ws.hosei.ac.jp/images/thumbnails/research/research2.png"
+                    src="../../assets/research2.png"
                     class="w-100 rounded-circle"
                   />
                 </div>
                 <div class="col-2 p-0">
                   <img
-                    src="https://kawakubo-lab.ws.hosei.ac.jp/images/thumbnails/research/research3.png"
+                    src="../../assets/research3.png"
                     class="w-100 rounded-circle"
                   />
                 </div>
                 <div class="col-2 p-0">
                   <img
-                    src="https://kawakubo-lab.ws.hosei.ac.jp/images/thumbnails/research/research4.png"
+                    src="../../assets/research4.png"
                     class="w-100 rounded-circle"
                   />
                 </div>
@@ -454,25 +383,25 @@
               <div class="row justify-content-center">
                 <div class="col-2 p-0">
                   <img
-                    src="https://kawakubo-lab.ws.hosei.ac.jp/images/thumbnails/research/research5.png"
+                    src="../../assets/research5.png"
                     class="w-100 rounded-circle"
                   />
                 </div>
                 <div class="col-2 p-0">
                   <img
-                    src="https://kawakubo-lab.ws.hosei.ac.jp/images/thumbnails/research/research6.png"
+                    src="../../assets/research6.png"
                     class="w-100 rounded-circle"
                   />
                 </div>
                 <div class="col-2 p-0">
                   <img
-                    src="https://kawakubo-lab.ws.hosei.ac.jp/images/thumbnails/research/research7.png"
+                    src="../../assets/research7.png"
                     class="w-100 rounded-circle"
                   />
                 </div>
                 <div class="col-2 p-0">
                   <img
-                    src="https://kawakubo-lab.ws.hosei.ac.jp/images/thumbnails/research/research8.png"
+                    src="../../assets/research8.png"
                     class="w-100 rounded-circle"
                   />
                 </div>
@@ -516,7 +445,7 @@
             </p>
             <div class="py-3 text-center">
               <img
-                src="https://kawakubo-lab.ws.hosei.ac.jp/images/sdgsIcons/goal18.png"
+                src="../../assets/goal18.png"
                 class="w-100"
                 style="max-width: 200px;"
               />
@@ -644,16 +573,16 @@ export default {
   }
   /*设置背景，响应式请利用媒体查询根据断点修改路径*/
   .slider-item1 {
-    background-image: url("https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab0.jpg");
+    background-image: url("../../assets/lab0.jpg");
   }
   .slider-item2 {
-    background-image: url("https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab1.jpg");
+    background-image: url("../../assets/lab1.jpg");
   }
   .slider-item3 {
-    background-image: url("https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab2.jpg");
+    background-image: url("../../assets/lab2.jpg");
   }
   .slider-item4 {
-    background-image: url("https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab3.jpg");
+    background-image: url("../../assets/lab3.jpg");
   }
 }
 </style>

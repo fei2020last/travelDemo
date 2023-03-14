@@ -40,7 +40,7 @@
               <div class="col-lg-5">
                 <div class="text-center py-3">
                   <img
-                    src="https://kawakubo-lab.ws.hosei.ac.jp/images/kawakubo.png"
+                    src="../../assets/kawakubo.png"
                     class="rounded-circle w-100"
                     style="max-width: 250px;"
                   />
@@ -115,7 +115,7 @@
               <div class="col-lg-5">
                 <div class="text-center py-3">
                   <img
-                    src="https://kawakubo-lab.ws.hosei.ac.jp/images/deguchi.png"
+                    src="../../assets/deguchi.png"
                     class="rounded-circle w-100"
                     style="max-width: 250px;"
                   />
@@ -174,7 +174,7 @@
               <div class="col-lg-5">
                 <div class="text-center py-3">
                   <img
-                    src="https://kawakubo-lab.ws.hosei.ac.jp/images/takemoto.png"
+                    src="../../assets/takemoto.png"
                     class="rounded-circle w-100"
                     style="max-width: 250px;"
                   />
@@ -356,7 +356,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/BH0qMLxuK8x16uNmbWAUyhv6agpqjf2B0CaWjaTg.png"
+                  src="../../assets/BH0qMLxuK8x16uNmbWAUyhv6agpqjf2B0CaWjaTg.png"
                   class="w-100"
                 />
               </div>
@@ -403,7 +403,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/hcvG54lJeI7UjuC67RfOxPcU4sTt5rAnNg1cRlcN.png"
+                  src="../../assets/hcvG54lJeI7UjuC67RfOxPcU4sTt5rAnNg1cRlcN.png"
                   class="w-100"
                 />
                 <small
@@ -432,7 +432,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/niYs5o1bxL98MYz332dXaF1oPbPd4xHqDnRzFSX8.png"
+                  src="../../assets/niYs5o1bxL98MYz332dXaF1oPbPd4xHqDnRzFSX8.png"
                   class="w-100"
                 />
               </div>
@@ -455,7 +455,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/zomx4HKw3Q6XqCNtMG9va5M8WueDDnCCbmrJDJVC.png"
+                  src="../../assets/zomx4HKw3Q6XqCNtMG9va5M8WueDDnCCbmrJDJVC.png"
                   class="w-100"
                 />
               </div>
@@ -478,7 +478,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/VQ7xUyFNDnatml9wrngKtg0RKVZuJJkF7H7RYi94.png"
+                  src="../../assets/VQ7xUyFNDnatml9wrngKtg0RKVZuJJkF7H7RYi94.png"
                   class="w-100"
                 />
               </div>
@@ -501,7 +501,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/xvMqupkkYweVbOw3vLSHta3eg91UZrlobGRR21Xx.png"
+                  src="../../assets/xvMqupkkYweVbOw3vLSHta3eg91UZrlobGRR21Xx.png"
                   class="w-100"
                 />
               </div>
@@ -524,7 +524,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/u1FoPAGFYbjAsxnL0ZzKsuU2vA0TWuKRD4hmlNcj.png"
+                  src="../../assets/u1FoPAGFYbjAsxnL0ZzKsuU2vA0TWuKRD4hmlNcj.png"
                   class="w-100"
                 />
               </div>
@@ -547,7 +547,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/C4I8LskvFTxB7G52HqqJEOlFVUcfxd5m2CXkaQ37.png"
+                  src="../../assets/C4I8LskvFTxB7G52HqqJEOlFVUcfxd5m2CXkaQ37.png"
                   class="w-100"
                 />
               </div>
@@ -570,7 +570,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/8Cz8sXuhH8Tq5A2X0bezeK3m3xkxvKdcIjSzgljG.png"
+                  src="../../assets/8Cz8sXuhH8Tq5A2X0bezeK3m3xkxvKdcIjSzgljG.png"
                   class="w-100"
                 />
               </div>
@@ -593,7 +593,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/lOJoCxSCbiYkGGEFMkJHTanYIrRJtvj3stTmilPf.png"
+                  src="../../assets/lOJoCxSCbiYkGGEFMkJHTanYIrRJtvj3stTmilPf.png"
                   class="w-100"
                 />
               </div>
@@ -620,7 +620,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/amYwwG4lRf7CrEBrK2Q88YLkyDsfAtBAsbZaJy68.png"
+                  src="../../assets/amYwwG4lRf7CrEBrK2Q88YLkyDsfAtBAsbZaJy68.png"
                   class="w-100"
                 />
               </div>
@@ -643,7 +643,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/CQjDYA926xs9xkbbpMtXGeCkAHQPhQEN61B71pnc.png"
+                  src="../../assets/CQjDYA926xs9xkbbpMtXGeCkAHQPhQEN61B71pnc.png"
                   class="w-100"
                 />
               </div>
@@ -666,7 +666,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/fRTbZWbRyFAvaCMrqv78MOFUZtcc3QaihhE5Pm5p.png"
+                  src="../../assets/fRTbZWbRyFAvaCMrqv78MOFUZtcc3QaihhE5Pm5p.png"
                   class="w-100"
                 />
               </div>
@@ -689,7 +689,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/WpVmqo7hvt3p6nBXiE7Wcu9pNma3CLvgKvEKxs2f.png"
+                  src="../../assets/WpVmqo7hvt3p6nBXiE7Wcu9pNma3CLvgKvEKxs2f.png"
                   class="w-100"
                 />
               </div>
@@ -712,7 +712,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/Ppy8WqiA33DtlPxf3bDDyethy9Hr1eOr8y7J3vFx.png"
+                  src="../../assets/Ppy8WqiA33DtlPxf3bDDyethy9Hr1eOr8y7J3vFx.png"
                   class="w-100"
                 />
               </div>
@@ -735,7 +735,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/TVnfZSH1KZbfOqRdeLIpu07PIsI6bZHQ3F85iyZS.png"
+                  src="../../assets/TVnfZSH1KZbfOqRdeLIpu07PIsI6bZHQ3F85iyZS.png"
                   class="w-100"
                 />
               </div>
@@ -758,7 +758,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/65KUEaaJynX3yMXUnnXBGuz3BLA5PBCGvi0i3lNv.png"
+                  src="../../assets/65KUEaaJynX3yMXUnnXBGuz3BLA5PBCGvi0i3lNv.png"
                   class="w-100"
                 />
               </div>
@@ -781,7 +781,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/BrV1dAAWoxdmEhV5jLXr2rzWPJpZ8gByGM81uIoE.png"
+                  src="../../assets/BrV1dAAWoxdmEhV5jLXr2rzWPJpZ8gByGM81uIoE.png"
                   class="w-100"
                 />
               </div>
@@ -804,7 +804,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/Zcr3YShU7Jp82KIfJXkg8MjcT8tUqVoDtdK8410J.png"
+                  src="../../assets/Zcr3YShU7Jp82KIfJXkg8MjcT8tUqVoDtdK8410J.png"
                   class="w-100"
                 />
               </div>
@@ -831,7 +831,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/FekkVxk0SS1Tyi7aqBAQmeciGVHCea1IxksveTI0.png"
+                  src="../../assets/FekkVxk0SS1Tyi7aqBAQmeciGVHCea1IxksveTI0.png"
                   class="w-100"
                 />
               </div>
@@ -854,7 +854,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/5PTkvJG3uFSB3Nr56CpbOOw3pxkAatW2cIEB1Gic.png"
+                  src="../../assets/5PTkvJG3uFSB3Nr56CpbOOw3pxkAatW2cIEB1Gic.png"
                   class="w-100"
                 />
               </div>
@@ -877,7 +877,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/yCk2lVMjlsu9UNeDleMoaD80M4s9ZbpK3c5G2gjQ.png"
+                  src="../../assets/yCk2lVMjlsu9UNeDleMoaD80M4s9ZbpK3c5G2gjQ.png"
                   class="w-100"
                 />
               </div>
@@ -900,7 +900,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/XGjCkEDKxo265KbGxtPpo3e8QlTRTUlwPHVA82N5.png"
+                  src="../../assets/XGjCkEDKxo265KbGxtPpo3e8QlTRTUlwPHVA82N5.png"
                   class="w-100"
                 />
               </div>
@@ -923,7 +923,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/9MAfkjKp4ICh2XDyibWMe4MalDAroQ3cvh5U99sA.png"
+                  src="../../assets/9MAfkjKp4ICh2XDyibWMe4MalDAroQ3cvh5U99sA.png"
                   class="w-100"
                 />
               </div>
@@ -946,7 +946,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/J7Lp2xvl3cvNyqCML0vtcshBw801ImxhuII0dvaf.png"
+                  src="../../assets/J7Lp2xvl3cvNyqCML0vtcshBw801ImxhuII0dvaf.png"
                   class="w-100"
                 />
               </div>
@@ -969,7 +969,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/3idMHSoqzmzoMt3z6KDREOT8ENYOg7DirL2tzlIj.png"
+                  src="../../assets/3idMHSoqzmzoMt3z6KDREOT8ENYOg7DirL2tzlIj.png"
                   class="w-100"
                 />
               </div>
@@ -992,7 +992,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/Fb8j9yV3zAH2e0t2NtrVVd0PTp5ScRNH06vkZNWD.png"
+                  src="../../assets/Fb8j9yV3zAH2e0t2NtrVVd0PTp5ScRNH06vkZNWD.png"
                   class="w-100"
                 />
               </div>
@@ -1015,7 +1015,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/ioaxAgKYuSClPdOyD1ms4QB8920DxlLEVu1cSs82.png"
+                  src="../../assets/ioaxAgKYuSClPdOyD1ms4QB8920DxlLEVu1cSs82.png"
                   class="w-100"
                 />
               </div>
@@ -1038,7 +1038,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/4yceNBbsIVj4dnj6SG1a0W2xaq0WQeX66R7IhiKP.jpeg"
+                  src="../../assets/4yceNBbsIVj4dnj6SG1a0W2xaq0WQeX66R7IhiKP.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1061,7 +1061,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/AajYxhUlMNDwi9l3F8XLmuhVcSagMP28xXmmkmvU.png"
+                  src="../../assets/AajYxhUlMNDwi9l3F8XLmuhVcSagMP28xXmmkmvU.png"
                   class="w-100"
                 />
               </div>
@@ -1084,7 +1084,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/VEDLRlVmgvvoW2FU5OybFW68tYgA5B44d586asqk.png"
+                  src="../../assets/VEDLRlVmgvvoW2FU5OybFW68tYgA5B44d586asqk.png"
                   class="w-100"
                 />
               </div>
@@ -1107,7 +1107,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/q4rzyeiLZvS1JCeNaILCDwvrzxeuQ83yoSbW8h4T.png"
+                  src="../../assets/q4rzyeiLZvS1JCeNaILCDwvrzxeuQ83yoSbW8h4T.png"
                   class="w-100"
                 />
               </div>
@@ -1130,7 +1130,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/cvqIJvUVn05fkXkdQVh4HmQYBTk3u78toTi30Vrm.png"
+                  src="../../assets/cvqIJvUVn05fkXkdQVh4HmQYBTk3u78toTi30Vrm.png"
                   class="w-100"
                 />
               </div>
@@ -1153,7 +1153,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/muSHoh2h8zMn0HpGkMrXtpI5CiwtyJ1EpF9C6Ekf.png"
+                  src="../../assets/muSHoh2h8zMn0HpGkMrXtpI5CiwtyJ1EpF9C6Ekf.png"
                   class="w-100"
                 />
               </div>
@@ -1176,7 +1176,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/TouOsY06L2W2srBbkFEWGRo9uz7DsWO7tqrayje6.png"
+                  src="../../assets/TouOsY06L2W2srBbkFEWGRo9uz7DsWO7tqrayje6.png"
                   class="w-100"
                 />
               </div>
@@ -1199,7 +1199,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/DBbyDNlDk9cLyBOJdpTwlYj4jxDEBBAsqynbQ4hm.png"
+                  src="../../assets/DBbyDNlDk9cLyBOJdpTwlYj4jxDEBBAsqynbQ4hm.png"
                   class="w-100"
                 />
               </div>
@@ -1222,7 +1222,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/sg334ahpGHJHbVqdQuibUqmsSk3x3JYJNQNCSeVZ.png"
+                  src="../../assets/sg334ahpGHJHbVqdQuibUqmsSk3x3JYJNQNCSeVZ.png"
                   class="w-100"
                 />
               </div>
@@ -1249,7 +1249,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/Untyz8z2Hh6uevy9d608yXQfcuzyhajkaPVJSGvz.jpeg"
+                  src="../../assets/Untyz8z2Hh6uevy9d608yXQfcuzyhajkaPVJSGvz.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1272,7 +1272,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/8n7wIdXFfXXOIEJ6wrIcWAXL4lRe2ldM8FTCxlyK.jpeg"
+                  src="../../assets/8n7wIdXFfXXOIEJ6wrIcWAXL4lRe2ldM8FTCxlyK.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1295,7 +1295,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/EoK3AeSvor2R4hhFOdpYhiMcsElYCgCi8IlP4WME.jpeg"
+                  src="../../assets/EoK3AeSvor2R4hhFOdpYhiMcsElYCgCi8IlP4WME.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1318,7 +1318,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/DsuWzq7dL87vaeOY4Zyl03VfPIIgkKtGNkECGsLL.jpeg"
+                  src="../../assets/DsuWzq7dL87vaeOY4Zyl03VfPIIgkKtGNkECGsLL.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1341,7 +1341,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/RcE0ahvvUKtGJrEZn5LdNf3U1p0G8318Acl4Q78e.jpeg"
+                  src="../../assets/RcE0ahvvUKtGJrEZn5LdNf3U1p0G8318Acl4Q78e.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1364,7 +1364,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/llKqhnefpq40nDEmO3HE9pzbq7MjK9Iqr7BuVPLa.jpeg"
+                  src="../../assets/llKqhnefpq40nDEmO3HE9pzbq7MjK9Iqr7BuVPLa.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1387,7 +1387,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/GpVTPCKuxrpk1u7fuYHKxmNU9BmDUzKSclzPnQ0l.jpeg"
+                  src="../../assets/GpVTPCKuxrpk1u7fuYHKxmNU9BmDUzKSclzPnQ0l.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1410,7 +1410,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/6h5mLv0uv0P0oPxALaGsRIqDKYIQpWpI6yd1uFiF.jpeg"
+                  src="../../assets/6h5mLv0uv0P0oPxALaGsRIqDKYIQpWpI6yd1uFiF.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1433,7 +1433,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/6xejFMubzIAYSKBPOHqRdp4DCw69299PSxFuDRzA.jpeg"
+                  src="../../assets/6xejFMubzIAYSKBPOHqRdp4DCw69299PSxFuDRzA.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1456,7 +1456,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/EPrF9PKNWw2gOR9kEvnrAxqm7dSz0i8rXrT3fJqf.jpeg"
+                  src="../../assets/EPrF9PKNWw2gOR9kEvnrAxqm7dSz0i8rXrT3fJqf.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1479,7 +1479,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/SdZunFX51aVnf9NuEBCrkvBSZcAklQxJv1XzopQ9.jpeg"
+                  src="../../assets/SdZunFX51aVnf9NuEBCrkvBSZcAklQxJv1XzopQ9.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1502,7 +1502,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/6k6Idnh7In1J0nnNheLs2nKnDbGTRR1GBlOBEHIr.jpeg"
+                  src="../../assets/6k6Idnh7In1J0nnNheLs2nKnDbGTRR1GBlOBEHIr.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1525,7 +1525,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/3wY9krNDICMGuwUniz6iTnD1qiUyLmUMnvCnVPBl.jpeg"
+                  src="../../assets/3wY9krNDICMGuwUniz6iTnD1qiUyLmUMnvCnVPBl.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1548,7 +1548,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/oIJit5JV0ltTJbyws9reOSHm2EzSyWKStT9IMVnl.jpeg"
+                  src="../../assets/oIJit5JV0ltTJbyws9reOSHm2EzSyWKStT9IMVnl.jpeg"
                   class="w-100"
                 />
               </div>
@@ -1571,7 +1571,7 @@
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <img
-                  src="https://kawakubo-lab.ws.hosei.ac.jp/storage/members/CIcCULHQ2TaW7d5yyUDZYtOlEGuScfH5nCPGBYLt.jpeg"
+                  src="../../assets/CIcCULHQ2TaW7d5yyUDZYtOlEGuScfH5nCPGBYLt.jpeg"
                   class="w-100"
                 />
               </div>

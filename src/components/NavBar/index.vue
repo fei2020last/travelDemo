@@ -5,7 +5,7 @@
  * @Description: 
  * @Date: 2023-03-08 20:51:22
  * @LastEditors: mayf
- * @LastEditTime: 2023-03-13 21:14:51
+ * @LastEditTime: 2023-03-14 19:44:28
  * @FilePath: \travelDemo\src\components\NavBar\index.vue
 -->
 <template>
@@ -21,7 +21,7 @@
         >
           <img
             alt="Brand"
-            src="https://kawakubo-lab.ws.hosei.ac.jp/favicon/brand-300x300.png"
+            src="../../assets/brand-300x300.png"
             width="30"
             height="30"
           />

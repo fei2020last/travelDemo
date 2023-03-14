@@ -94,7 +94,6 @@
         </div>
         <div class="mt-5 row mx-0">
           <div class="col-3 col-md text-center">
-            <!--   href="https://kawakubo-lab.ws.hosei.ac.jp" -->
             <a
               @click.stop="getActiveTab('TOP')"
               class="text-decoration-none"
@@ -103,7 +102,6 @@
             >
           </div>
           <div class="col-3 col-md text-center">
-            <!-- href="https://kawakubo-lab.ws.hosei.ac.jp/about" -->
             <a
               @click.stop="getActiveTab('About')"
               class="text-decoration-none"
@@ -112,7 +110,6 @@
             >
           </div>
           <div class="col-3 col-md text-center">
-            <!-- href="https://kawakubo-lab.ws.hosei.ac.jp/contact" -->
             <a
               @click.stop="getActiveTab('Contact')"
               style="cursor: pointer;"
@@ -124,7 +121,7 @@
         <hr />
         <div class="mt-3 text-center">
           <img
-            src="https://kawakubo-lab.ws.hosei.ac.jp/favicon/brand-muted-300x300.png"
+            src="../../assets/brand-muted-300x300.png"
             width="100"
             height="100"
           />
