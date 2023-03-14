@@ -5,7 +5,7 @@
  * @Description: 
  * @Date: 2023-03-08 19:52:21
  * @LastEditors: mayf
- * @LastEditTime: 2023-03-13 21:20:47
+ * @LastEditTime: 2023-03-14 13:16:31
  * @FilePath: \travelDemo\src\views\home\top.vue
 -->
 <template>
@@ -21,32 +21,14 @@
         data-pause="false"
         class="carousel slide carousel-fade bg-white"
       >
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img
-              src="https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab0.jpg"
-              class="w-100"
-            />
-          </div>
-          <div class="carousel-item">
-            <img
-              src="https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab1.jpg"
-              class="w-100"
-            />
-          </div>
-          <div class="carousel-item">
-            <img
-              src="https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab2.jpg"
-              class="w-100"
-            />
-          </div>
-          <div class="carousel-item">
-            <img
-              src="https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab3.jpg"
-              class="w-100"
-            />
-          </div>
-        </div>
+        <section class="slider-contaner">
+          <ul class="slider">
+            <li class="slider-item slider-item1"></li>
+            <li class="slider-item slider-item2"></li>
+            <li class="slider-item slider-item3"></li>
+            <li class="slider-item slider-item4"></li>
+          </ul>
+        </section>
       </div>
     </div>
     <div
@@ -597,6 +579,81 @@ export default {
   }
   svg:not(:root).svg-inline--fa {
     overflow: visible;
+  }
+  /*slider start*/
+  ul,
+  li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .slider-contaner {
+    width: 100%;
+    position: relative;
+  }
+  /*设置图片的高度，请根据具体需要修改百分比，响应式及时修改此值*/
+  .slider,
+  .slider-item {
+    padding-bottom: 50%;
+  }
+  .slider-item + .slider-item {
+    opacity: 0;
+  }
+  .slider-item {
+    width: 100%;
+    position: absolute;
+    animation-timing-function: linear;
+    animation-name: fade;
+    animation-iteration-count: infinite;
+    animation-duration: 24s;
+    background-size: 100%;
+  }
+  .slider-item1 {
+    animation-delay: -1s;
+  }
+  .slider-item2 {
+    animation-delay: 5s;
+  }
+  .slider-item3 {
+    animation-delay: 11s;
+  }
+  .slider-item4 {
+    animation-delay: 17s;
+  }
+  @keyframes fade {
+    0% {
+      opacity: 0;
+      z-index: 2;
+    }
+    5% {
+      opacity: 1;
+      z-index: 1;
+    }
+    20% {
+      opacity: 1;
+      z-index: 1;
+    }
+    30% {
+      opacity: 0;
+      z-index: 0;
+    }
+    100% {
+      opacity: 0;
+      z-index: 0;
+    }
+  }
+  /*设置背景，响应式请利用媒体查询根据断点修改路径*/
+  .slider-item1 {
+    background-image: url("https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab0.jpg");
+  }
+  .slider-item2 {
+    background-image: url("https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab1.jpg");
+  }
+  .slider-item3 {
+    background-image: url("https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab2.jpg");
+  }
+  .slider-item4 {
+    background-image: url("https://kawakubo-lab.ws.hosei.ac.jp/images/topPage/lab3.jpg");
   }
 }
 </style>
