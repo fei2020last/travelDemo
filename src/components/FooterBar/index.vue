@@ -129,9 +129,18 @@
         <div class="text-center lead">
           法政大学デザイン工学部建築学科 川久保研究室
         </div>
-        <p class="small text-muted text-center">
+        <p class="small text-muted text-center" style="margin-bottom: 0;">
           © 2023 Kawakubo Laboratory All rights reserved
         </p>
+        <!-- <div class="text-center">
+          <a
+            class="small text-muted"
+            href="https://beian.miit.gov.cn/"
+            target="_blank"
+          >
+            黑ICP备2023004983号
+          </a>
+        </div> -->
       </div>
     </div>
   </div>
