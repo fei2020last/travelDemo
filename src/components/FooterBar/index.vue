@@ -127,7 +127,8 @@
           />
         </div>
         <div class="text-center lead">
-          法政大学デザイン工学部建築学科 川久保研究室
+          <!-- 法政大学デザイン工学部建築学科 川久保研究室 -->
+          法政大学设计工学部建筑学科川久保研究室
         </div>
         <p class="small text-muted text-center" style="margin-bottom: 0;">
           © 2023 Kawakubo Laboratory All rights reserved

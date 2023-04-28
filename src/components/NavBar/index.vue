@@ -1,13 +1,3 @@
-<!--
- * @Project: APM
- * @version: v1.0 r
- * @Author: mayf
- * @Description: 
- * @Date: 2023-03-08 20:51:22
- * @LastEditors: mayf
- * @LastEditTime: 2023-03-14 19:44:28
- * @FilePath: \travelDemo\src\components\NavBar\index.vue
--->
 <template>
   <div class="nav-bar-container">
     <div
@@ -46,7 +36,7 @@
           :class="{ checked: show }"
         >
           <ul class="navbar-nav ml-auto my-2 my-lg-0">
-            <li class="nav-item">
+            <li class="nav-item" style="cursor: pointer;">
               <a
                 class="nav-link"
                 :class="{
@@ -57,7 +47,7 @@
                 >TOP</a
               >
             </li>
-            <li class="nav-item">
+            <li class="nav-item" style="cursor: pointer;">
               <a
                 class="nav-link"
                 :class="{
@@ -68,7 +58,7 @@
                 >About</a
               >
             </li>
-            <li class="nav-item">
+            <li class="nav-item" style="cursor: pointer;">
               <a
                 class="nav-link"
                 :class="{

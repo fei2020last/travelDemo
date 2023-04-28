@@ -8,22 +8,30 @@
           <div class="bg-light py-5">
             <h1 class="text-center text-primary mb-0">About</h1>
             <p class="text-center text-muted small mb-0">
-              川久保研究室・研究室メンバーについて
+              <!-- 川久保研究室・研究室メンバーについて -->
+              关于川久保研究室・研究室成员
             </p>
             <div class="mt-3 row justify-content-center">
               <div class="col-11 col-lg-8">
                 <p>
-                  環境工学の視点から未来のあるべき建築・都市像を探求しています。
+                  <!-- 環境工学の視点から未来のあるべき建築・都市像を探求しています。
                   建築・都市は、我々人間にとって重要な生活基盤・社会インフラです。
                   良質な建築・都市環境が確保されなければ快適・健康的な生活を送ることはできません。
                   その意味で良質な建築・都市環境の追求は極めて重要です。
+                  从环境工学的视点探索未来应有的建筑·城市像。 -->
+                  建筑、城市是我们人类重要的生活基础和社会基础设施。
+                  如果不能确保优质的建筑、城市环境，就不能过上舒适、健康的生活。
+                  从这个意义上来说，追求优质的建筑、城市环境是极其重要的。
                 </p>
                 <p>
-                  一方で、我々人間は豊かな暮らしを追求する過程で環境に多大な負荷を与えていることも自覚しつつ、
+                  <!-- 一方で、我々人間は豊かな暮らしを追求する過程で環境に多大な負荷を与えていることも自覚しつつ、
                   その影響の低減に努めなければなりません。
                   未来のあるべき建築都市像を実現するために、
                   持続可能な開発目標SDGs（Sustainable Development
-                  Goals）を活用する研究を推進して参ります。
+                  Goals）を活用する研究を推進して参ります。 -->
+                  另一方面，我们人类在追求富裕生活的过程中也意识到给环境带来了巨大的负荷
+                  我们必须努力降低其影响。 为了实现未来应有的建筑城市形象
+                  可持续发展目标 推进活用Goals）的研究。
                 </p>
               </div>
             </div>
@@ -34,7 +42,7 @@
         <div class="col-12 p-3 align-self-stretch">
           <div class="shadow h-100 bg-white">
             <h2 class="bg-primary d-inline-block px-3 py-1 text-light h4 mb-0">
-              教員
+              教员
             </h2>
             <div class="row px-3 pb-3">
               <div class="col-lg-5">
@@ -54,27 +62,52 @@
               </div>
               <div class="col-lg-7 d-flex flex-column justify-content-between">
                 <div>
-                  <h3 class="mt-3 h5 mb-0">略歴</h3>
+                  <h3 class="mt-3 h5 mb-0">
+                    <!-- 略歴 -->
+                    履历
+                  </h3>
                   <ul class="list-unstyled mt-4">
                     <li>
-                      2010年 慶應義塾大学大学院理工学研究科
-                      助教（有期・研究奨励）
+                      <!-- 2010年 慶應義塾大学大学院理工学研究科
+                      助教（有期・研究奨励） -->
+                      2010年庆应义塾大学大学院理工学研究科
+                      助教（有期、研究奖励）
                     </li>
                     <li>
-                      2011年 オーストラリア連邦科学産業研究機構 訪問研究員
+                      <!-- 2011年 オーストラリア連邦科学産業研究機構 訪問研究员 -->
+                      2011年澳大利亚联邦科学产业研究机构访问研究员
                     </li>
-                    <li>2011年 日本学術振興会特別研究員</li>
-                    <li>2013年 慶應義塾大学後期博士課程 修了 博士（工学）</li>
-                    <li>2013年 法政大学デザイン工学部建築学科 助教</li>
-                    <li>2016年 法政大学デザイン工学部建築学科 専任講師</li>
-                    <li>2017年 法政大学デザイン工学部建築学科 准教授</li>
-                    <li>2021年 法政大学デザイン工学部建築学科 教授（現職）</li>
+                    <li>
+                      <!-- 2011年 日本学術振興会特別研究员 -->
+                      2011年日本学术振兴会特别研究员
+                    </li>
+                    <li>
+                      <!-- 2013年 慶應義塾大学後期博士課程 修了 博士（工学） -->
+                      2013年庆应义塾大学后期博士课程结业博士（工学）
+                    </li>
+                    <li>
+                      <!-- 2013年 法政大学デザイン工学部建築学科 助教 -->
+                      2013年法政大学设计工程系建筑学科助教
+                    </li>
+                    <li>
+                      <!-- 2016年 法政大学デザイン工学部建築学科 専任講師 -->
+                      2016年法政大学设计工程部建筑学科专职讲师
+                    </li>
+                    <li>
+                      <!-- 2017年 法政大学デザイン工学部建築学科 准教授 -->
+                      2017年法政大学设计工学部建筑学科准教授
+                    </li>
+                    <li>
+                      <!-- 2021年 法政大学デザイン工学部建築学科 教授（現職） -->
+                      2021年法政大学设计工程系建筑学科教授（现任）
+                    </li>
                   </ul>
                 </div>
                 <div class="text-right">
                   <div>
                     <a href="https://kawakubo-lab.ws.hosei.ac.jp/about/vision">
-                      川久保の想い
+                      <!-- 川久保の想い -->
+                      川久保的想法
                     </a>
                   </div>
                   <div>
@@ -82,7 +115,8 @@
                       href="http://kenkyu-web.hosei.ac.jp/Profiles/30/0002957/profile.html"
                       target="_blank"
                     >
-                      法政大学学術研究データベース
+                      <!-- 法政大学学術研究データベース -->
+                      法政大学学术研究ー
                       <svg
                         class="svg-inline--fa fa-external-link-square-alt fa-w-14"
                         aria-hidden="true"
@@ -129,16 +163,43 @@
               </div>
               <div class="col-lg-7 d-flex flex-column justify-content-between">
                 <div>
-                  <h3 class="mt-3 h5 mb-0">略歴</h3>
+                  <h3 class="mt-3 h5 mb-0">
+                    <!-- 略歴 -->
+                    履历
+                  </h3>
                   <ul class="list-unstyled mt-4">
-                    <li>1984年 鹿児島大学工学部 専任講師</li>
-                    <li>1986年 鹿児島大学工学部 助教授</li>
-                    <li>1991年 法政大学工学部 助教授</li>
-                    <li>1991年 東京大学生産技術研究所 研究員</li>
-                    <li>1992年 法政大学工学部 教授</li>
-                    <li>1996年 フランスLaboratcire CERMA在外研究員</li>
-                    <li>2007年 法政大学デザイン工学部 教授</li>
-                    <li>2022年 法政大学デザイン工学部 名誉教授</li>
+                    <li>
+                      <!-- 1984年 鹿児島大学工学部 専任講師 -->
+                      1984年鹿儿岛大学工学部专任讲师
+                    </li>
+                    <li>
+                      <!-- 1986年 鹿児島大学工学部 助教授 -->
+                      1986年鹿儿岛大学工学部副教授
+                    </li>
+                    <li>
+                      <!-- 1991年 法政大学工学部 助教授 -->
+                      1991年法政大学工学部副教授
+                    </li>
+                    <li>
+                      <!-- 1991年 東京大学生産技術研究所 研究员 -->
+                      1991年东京大学生产技术研究所研究员
+                    </li>
+                    <li>
+                      <!-- 1992年 法政大学工学部 教授 -->
+                      1992年法政大学工学部教授
+                    </li>
+                    <li>
+                      <!-- 1996年 フランスLaboratcire CERMA在外研究员 -->
+                      1996年法国Laboratcire CERMA驻外研究员
+                    </li>
+                    <li>
+                      <!-- 2007年 法政大学デザイン工学部 教授 -->
+                      2007年法政大学设计工学部教授
+                    </li>
+                    <li>
+                      <!-- 2022年 法政大学デザイン工学部 名誉教授 -->
+                      2022年法政大学设计工程系名誉教授
+                    </li>
                   </ul>
                 </div>
                 <div class="text-right">
@@ -168,7 +229,7 @@
         <div class="col-12 p-3 align-self-stretch">
           <div class="shadow h-100 bg-white">
             <h2 class="bg-primary d-inline-block px-3 py-1 text-light h4 mb-0">
-              客員教授
+              客员教授
             </h2>
             <div class="row px-3 pb-3">
               <div class="col-lg-5">
@@ -188,20 +249,43 @@
               </div>
               <div class="col-lg-7 d-flex flex-column justify-content-between">
                 <div>
-                  <h3 class="mt-3 h5 mb-0">略歴</h3>
+                  <h3 class="mt-3 h5 mb-0">
+                    <!-- 略歴 -->
+                    履历
+                  </h3>
                   <ul class="list-unstyled mt-4">
-                    <li>2003年 環境省大臣官房審議官(地球環境担当)</li>
-                    <li>2005年 環境管理局長</li>
-                    <li>2008年 地球環境審議官</li>
                     <li>
-                      2014年 国連大学サステイナビリティ高等研究所 初代所長
+                      <!-- 2003年 環境省大臣官房審議官(地球環境担当) -->
+                      2003年环境省大臣官房审议官（负责地球环境）
                     </li>
-                    <li>2015年 Japan SDSN 事務局長</li>
                     <li>
-                      2016年 一般社団法人海外環境協力センター（OECC） 理事長
+                      <!-- 2005年 環境管理局長 -->
+                      2005年环境管理局长
                     </li>
-                    <li>2019年 東京大学未来ビジョン研究センター 特任教授</li>
-                    <li>2021年 法政大学デザイン工学部 客員教授</li>
+                    <li>
+                      <!-- 2008年 地球環境審議官 -->
+                      2008年地球环境审议官
+                    </li>
+                    <li>
+                      <!-- 2014年 国連大学サステイナビリティ高等研究所 初代所長 -->
+                      2014年联合国大学可持续性高等研究所第一任所长
+                    </li>
+                    <li>
+                      <!-- 2015年 Japan SDSN 事務局長 -->
+                      2015年Japan SDSN事务局长
+                    </li>
+                    <li>
+                      <!-- 2016年 一般社団法人海外環境協力センター（OECC） 理事長 -->
+                      2016年一般社团法人海外环境合作中心（OECC）理事长
+                    </li>
+                    <li>
+                      <!-- 2019年 東京大学未来ビジョン研究センター 特任教授 -->
+                      2019年东京大学未来ー研究ー特任教授
+                    </li>
+                    <li>
+                      <!-- 2021年 法政大学デザイン工学部 客员教授 -->
+                      2021年法政大学设计工程系客座教授
+                    </li>
                   </ul>
                 </div>
               </div>
@@ -212,10 +296,19 @@
       <div id="members" class="mt-5">
         <div class="bg-white py-5">
           <h2 class="text-center mb-0">Members</h2>
-          <p class="text-center text-muted small">川久保研究室のメンバー</p>
+          <p class="text-center text-muted small">
+            <!-- 川久保研究室のメンバー -->
+            川久保研究室成员
+          </p>
           <div id="Re" class="border-top pb-3">
-            <h3 class="mt-3 text-center mb-0">研究員</h3>
-            <p class="small text-muted text-center">研究員 2名</p>
+            <h3 class="mt-3 text-center mb-0">
+              <!-- 研究员 -->
+              研究员
+            </h3>
+            <p class="small text-muted text-center">
+              <!-- 研究员 2名 -->
+              研究员 2名
+            </p>
             <div class="row mx-0 px-3 px-md-5 mt-3">
               <div class="col-md-4 col-lg-2 px-0 shadow-sm">
                 <div class="py-4 text-center">
@@ -245,9 +338,13 @@
                 </div>
                 <div class="pr-3 pb-2">
                   【研究内容】未定<br />
-                  【趣味】Paddington、ジャム作り
+                  <!-- 【趣味】Paddington、ジャム作り -->
+                  【趣味】Paddington，果酱制作
                   <div style="position: absolute; bottom: 5px; right: 10px;">
-                    <span class="text-muted h5">研究員</span>
+                    <span class="text-muted h5">
+                      <!-- 研究员 -->
+                      研究员
+                    </span>
                   </div>
                 </div>
               </div>
@@ -303,7 +400,7 @@
                         ></path>
                       </svg>
                     </a>
-                    <span class="text-muted h5">研究員</span>
+                    <span class="text-muted h5">研究员</span>
                   </div>
                 </div>
               </div>
@@ -340,8 +437,11 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】地域におけるSDGs政策・プロセス<br />
-                  【趣味】まちあるき、アート
+                  <!-- 【研究内容】地域におけるSDGs政策・プロセス<br />
+                  【趣味】まちあるき、アート -->
+                  【研究内容】地域SDGs政策・进程<br />
+
+                  【兴趣】漫步、艺术
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">D3</span>
                   </div>
@@ -368,8 +468,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住環境と居住者の健康維持増進に関する研究<br />
-                  【趣味】ボルダリング、ディズニー
+                  <!-- 【研究内容】住環境と居住者の健康維持増進に関する研究<br />
+                  【趣味】ボルダリング、ディズニー -->
+                  【研究内容】关于居住环境和增进居住者健康的研究<br />
+                  【兴趣】保龄球、迪斯尼
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <a
                       href="https://orcid.org/0000-0003-3433-8037"
@@ -410,7 +512,8 @@
                   class="bg-primary text-light px-2 py-1"
                   style="position: absolute; top: 0px; left: 0px;"
                 >
-                  室長
+                  <!-- 室長 -->
+                  室长
                 </small>
               </div>
               <div class="col-md-8 col-lg-10 shadow-sm pr-0">
@@ -421,8 +524,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】自治体SDGsに関する研究<br />
-                  【趣味】テニス、読書
+                  <!-- 【研究内容】自治体SDGsに関する研究<br />
+                  【趣味】テニス、読書 -->
+                  【研究内容】自治体SDGs相关研究<br />
+                  【兴趣】网球、读书
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M2</span>
                   </div>
@@ -444,8 +549,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住環境と居住者の健康維持増進に関する研究<br />
-                  【趣味】アイドルコピーダンス
+                  <!-- 【研究内容】住環境と居住者の健康維持増進に関する研究<br />
+                  【趣味】アイドルコピーダンス -->
+                  【研究内容】关于居住环境和增进居住者健康的研究<br />
+                  【兴趣】偶像复制舞
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M2</span>
                   </div>
@@ -467,8 +574,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】自治体SDGsに関する研究<br />
-                  【趣味】テニス、ギター
+                  <!-- 【研究内容】自治体SDGsに関する研究<br />
+                  【趣味】テニス、ギター -->
+                  【研究内容】自治体SDGs相关研究<br />
+                  【兴趣】网球、吉他
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M2</span>
                   </div>
@@ -490,8 +599,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住宅の断熱性能と温熱環境に関する研究<br />
-                  【趣味】お笑い、料理
+                  <!-- 【研究内容】住宅の断熱性能と温熱環境に関する研究<br />
+                  【趣味】お笑い、料理 -->
+                  【研究内容】住宅绝热性能与温热环境的相关研究<br />
+                  【兴趣】搞笑、料理
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M2</span>
                   </div>
@@ -513,8 +624,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】自治体SDGsに関する研究<br />
-                  【趣味】海外旅行、温泉巡り
+                  <!-- 【研究内容】自治体SDGsに関する研究<br />
+                  【趣味】海外旅行、温泉巡り -->
+                  【研究内容】自治体SDGs相关研究<br />
+                  【兴趣】海外旅行、泡温泉
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M2</span>
                   </div>
@@ -536,8 +649,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】伝統民家における食・調理空間に関する研究<br />
-                  【趣味】ラグビー、漫画
+                  <!-- 【研究内容】伝統民家における食・調理空間に関する研究<br />
+                  【趣味】ラグビー、漫画 -->
+                  【研究内容】关于传统民居的饮食、烹饪空间的研究<br />
+                  【兴趣】橄榄球、漫画
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M2</span>
                   </div>
@@ -559,8 +674,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住宅の断熱性能とエネルギー消費量に関する研究<br />
-                  【趣味】野球観戦、旅行
+                  <!-- 【研究内容】住宅の断熱性能とエネルギー消費量に関する研究<br />
+                  【趣味】野球観戦、旅行 -->
+                  【研究内容】住宅绝热性能与能源消耗量的研究<br />
+                  【兴趣】观看棒球比赛、旅行
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M2</span>
                   </div>
@@ -582,8 +699,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住環境と居住者の健康維持増進に関する研究<br />
-                  【趣味】ギター、トランポリン
+                  <!-- 【研究内容】住環境と居住者の健康維持増進に関する研究<br />
+                  【趣味】ギター、トランポリン -->
+                  【研究内容】关于居住环境和增进居住者健康的研究<br />
+                  【兴趣】吉他、蹦床
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M2</span>
                   </div>
@@ -605,8 +724,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】地域間健康格差に関する研究<br />
-                  【趣味】テニス、スポーツ観戦
+                  <!-- 【研究内容】地域間健康格差に関する研究<br />
+                  【趣味】テニス、スポーツ観戦 -->
+                  【研究内容】关于地区间健康差距的研究<br />
+                  【兴趣】网球、观看体育比赛
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M2</span>
                   </div>
@@ -632,8 +753,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】自治体におけるSDGsの実践・効果検証に関する研究<br />
-                  【趣味】書道、立体造形
+                  <!-- 【研究内容】自治体におけるSDGsの実践・効果検証に関する研究<br />
+                  【趣味】書道、立体造形 -->
+                  【研究内容】关于自治体SDGs的实践和效果验证的研究<br />
+                  【兴趣】书法、立体造型
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M1</span>
                   </div>
@@ -655,8 +778,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】自治体におけるSDGsの取組度合いに関する研究<br />
-                  【趣味】サッカー観戦、旅行
+                  <!-- 【研究内容】自治体におけるSDGsの取組度合いに関する研究<br />
+                  【趣味】サッカー観戦、旅行 -->
+                  【研究内容】自治体SDGs的研究<br />
+                  【兴趣】观看足球比赛、旅行
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M1</span>
                   </div>
@@ -678,8 +803,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】自治体におけるSDGsの実践・効果検証に関する研究<br />
-                  【趣味】書道、弓道、ジブリ
+                  <!-- 【研究内容】自治体におけるSDGsの実践・効果検証に関する研究<br />
+                  【趣味】書道、弓道、ジブリ -->
+                  【研究内容】关于自治体SDGs的实践和效果验证的研究<br />
+                  【兴趣】书法、弓道、吉卜力
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M1</span>
                   </div>
@@ -701,8 +828,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住環境と居住者の健康維持増進に関する研究<br />
-                  【趣味】音楽鑑賞、ピアノ
+                  <!-- 【研究内容】住環境と居住者の健康維持増進に関する研究<br />
+                  【趣味】音楽鑑賞、ピアノ -->
+                  【研究内容】关于居住环境和增进居住者健康的研究<br />
+                  【兴趣】音乐鉴赏、钢琴
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M1</span>
                   </div>
@@ -724,8 +853,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】熱的ストレスが人体に与える影響に関する研究<br />
-                  【趣味】温泉、テニス
+                  <!-- 【研究内容】熱的ストレスが人体に与える影響に関する研究<br />
+                  【趣味】温泉、テニス -->
+                  【研究内容】关于热应激对人体的影响的研究<br />
+                  【兴趣】温泉、网球
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M1</span>
                   </div>
@@ -747,8 +878,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】職務環境における知的生産性に関する研究<br />
-                  【趣味】筋トレ、バトミントン
+                  <!-- 【研究内容】職務環境における知的生産性に関する研究<br />
+                  【趣味】筋トレ、バトミントン -->
+                  【研究内容】关于职务环境中的知识生产性的研究<br />
+                  【兴趣】肌肉锻炼、羽毛球
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M1</span>
                   </div>
@@ -770,8 +903,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】 民生家庭部門における脱炭素化に関する研究<br />
-                  【趣味】 野球観戦、漫画
+                  <!-- 【研究内容】 民生家庭部門における脱炭素化に関する研究<br />
+                  【趣味】 野球観戦、漫画 -->
+                  【研究内容】民生家庭部门的脱碳研究<br />
+                  【兴趣】观看棒球比赛、漫画
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M1</span>
                   </div>
@@ -793,8 +928,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住宅の断熱性能と温熱環境に関する研究<br />
-                  【趣味】祭り、横笛製作
+                  <!-- 【研究内容】住宅の断熱性能と温熱環境に関する研究<br />
+                  【趣味】祭り、横笛製作 -->
+                  【研究内容】住宅绝热性能与温热环境的相关研究<br />
+                  【兴趣】祭典、横笛制作
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M1</span>
                   </div>
@@ -816,8 +953,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】企業におけるSDGsの取り組み度合いに関する研究<br />
-                  【趣味】筋トレ、音楽鑑賞
+                  <!-- 【研究内容】企業におけるSDGsの取り組み度合いに関する研究<br />
+                  【趣味】筋トレ、音楽鑑賞 -->
+                  【研究内容】关于企业SDGs的研究<br />
+                  【兴趣】肌肉锻炼、音乐鉴赏
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">M1</span>
                   </div>
@@ -843,8 +982,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】オンラインプラットフォームを用いたSDGs推進の⽀援に関する研究<br />
-                  【趣味】プログラミング、サッカー、まとめること
+                  <!-- 【研究内容】オンラインプラットフォームを用いたSDGs推進の⽀援に関する研究<br />
+                  【趣味】プログラミング、サッカー、まとめること -->
+                  【研究内容】关于利用在线平台推进SDGs的支援的研究<br />
+                  【兴趣】编程、足球、总结
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -866,8 +1007,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】企業・団体におけるのSDGsの実践・効果検証に関する研究<br />
-                  【趣味】野球、お笑い、映画鑑賞
+                  <!-- 【研究内容】企業・団体におけるのSDGsの実践・効果検証に関する研究<br />
+                  【趣味】野球、お笑い、映画鑑賞 -->
+                  【研究内容】关于企业、团体SDGs的实践、效果验证的研究<br />
+                  【兴趣】棒球、搞笑、看电影
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -889,8 +1032,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】環境配慮建築がもたらす経済便益に関する研究<br />
-                  【趣味】絵を描く、アニメ、将棋
+                  <!-- 【研究内容】環境配慮建築がもたらす経済便益に関する研究<br />
+                  【趣味】絵を描く、アニメ、将棋 -->
+                  【研究内容】关于环保建筑带来的经济效益的研究<br />
+                  【兴趣】画画、动漫、将棋
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -912,8 +1057,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住環境と居住者の健康維持増進に関する研究<br />
-                  【趣味】漫画、サンリオ、野球観戦
+                  <!-- 【研究内容】住環境と居住者の健康維持増進に関する研究<br />
+                  【趣味】漫画、サンリオ、野球観戦 -->
+                  【研究内容】关于居住环境和增进居住者健康的研究<br />
+                  【兴趣】漫画、三丽鸥、棒球观战
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -935,8 +1082,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】都市環境と市民の健康維持増進に関する研究<br />
-                  【趣味】漫画、アニメ、フットサル
+                  <!-- 【研究内容】都市環境と市民の健康維持増進に関する研究<br />
+                  【趣味】漫画、アニメ、フットサル -->
+                  【研究内容】关于增进城市环境和市民健康的研究<br />
+                  【兴趣】漫画、动画、室内五人制足球
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -958,8 +1107,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】熱的ストレスが人体に与える影響に関する研究<br />
-                  【趣味】卓球、カラオケ、ボウリング
+                  <!-- 【研究内容】熱的ストレスが人体に与える影響に関する研究<br />
+                  【趣味】卓球、カラオケ、ボウリング -->
+                  【研究内容】关于热应激对人体的影响的研究<br />
+                  【兴趣】乒乓球、卡拉OK、保龄球
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -981,8 +1132,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】カーボンニュートラルを目指す自治体の取組に関する研究<br />
-                  【趣味】ゲーム 、アニメ、バドミントン
+                  <!-- 【研究内容】カーボンニュートラルを目指す自治体の取組に関する研究<br />
+                  【趣味】ゲーム 、アニメ、バドミントン -->
+                  【研究内容】以碳中和为目标的自治体的研究<br />
+                  【兴趣】游戏、动漫、羽毛球
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1004,8 +1157,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】世界と日本のヴァナキュラー建築に関する研究<br />
-                  【趣味】映画鑑賞、楽器、手品
+                  <!-- 【研究内容】世界と日本のヴァナキュラー建築に関する研究<br />
+                  【趣味】映画鑑賞、楽器、手品 -->
+                  【研究内容】关于世界和日本的小提琴建筑的研究<br />
+                  【兴趣】电影鉴赏、乐器、魔术
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1027,8 +1182,11 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】サステナブルツーリズムの実態把握に関する研究<br />
-                  【趣味】ゲーム観戦、バスケ、散歩
+                  <!-- 【研究内容】サステナブルツーリズムの実態把握に関する研究<br />
+                  【趣味】ゲーム観戦、バスケ、散歩 -->
+                  【研究内容】关于把握可持续旅游的实际情况的研究<br />
+
+                  【兴趣】观看游戏、打篮球、散步
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1050,8 +1208,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住環境と居住者の健康維持増進に関する研究<br />
-                  【趣味】映画鑑賞、友人とゲーム、本屋で漫画漁り
+                  <!-- 【研究内容】住環境と居住者の健康維持増進に関する研究<br />
+                  【趣味】映画鑑賞、友人とゲーム、本屋で漫画漁り -->
+                  【研究内容】关于居住环境和增进居住者健康的研究<br />
+                  【兴趣】看电影、和朋友玩游戏、在书店看漫画
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1073,8 +1233,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住環境と居住者の健康維持増進に関する研究<br />
-                  【趣味】絶叫マシン巡り、漫画、ゲーム
+                  <!-- 【研究内容】住環境と居住者の健康維持増進に関する研究<br />
+                  【趣味】絶叫マシン巡り、漫画、ゲーム -->
+                  【研究内容】关于居住环境和增进居住者健康的研究<br />
+                  【兴趣】尖叫游戏机巡游、漫画、游戏
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1096,8 +1258,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】職務環境における知的生産性に関する研究<br />
-                  【趣味】自転車、ゲーム、カラオケ
+                  <!-- 【研究内容】職務環境における知的生産性に関する研究<br />
+                  【趣味】自転車、ゲーム、カラオケ -->
+                  【研究内容】关于职务环境中的知识生产性的研究<br />
+                  【兴趣】自行车、游戏、卡拉OK
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1119,8 +1283,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】民生業務部門における脱炭素化に関する研究<br />
-                  【趣味】写真、エレクトーン
+                  <!-- 【研究内容】民生業務部門における脱炭素化に関する研究<br />
+                  【趣味】写真、エレクトーン -->
+                  【研究内容】民生业务部门的脱碳研究<br />
+                  【兴趣】写真、电子琴
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1142,8 +1308,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住宅の湿度と居住者の健康に関する研究<br />
-                  【趣味】ゲーム、スポーツ観戦
+                  <!-- 【研究内容】住宅の湿度と居住者の健康に関する研究<br />
+                  【趣味】ゲーム、スポーツ観戦 -->
+                  【研究内容】住宅湿度与居住者健康相关的研究<br />
+                  【兴趣】游戏、体育观战
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1165,8 +1333,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住環境と居住者の健康維持増進に関する研究<br />
-                  【趣味】kpop、カラオケ、野球観戦
+                  <!-- 【研究内容】住環境と居住者の健康維持増進に関する研究<br />
+                  【趣味】kpop、カラオケ、野球観戦 -->
+                  【研究内容】关于居住环境和增进居住者健康的研究<br />
+                  【兴趣】kpop、卡拉OK、棒球观战
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1188,8 +1358,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】職務環境における知的生産性に関する研究<br />
-                  【趣味】絵を描く、うちのハリネズミと遊ぶ
+                  <!-- 【研究内容】職務環境における知的生産性に関する研究<br />
+                  【趣味】絵を描く、うちのハリネズミと遊ぶ -->
+                  【研究内容】关于职务环境中的知识生产性的研究<br />
+                  【兴趣】画画，和我家的刺猬一起玩
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1211,8 +1383,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住環境と居住者の健康維持増進に関する研究<br />
-                  【趣味】ピアノ、読書
+                  <!-- 【研究内容】住環境と居住者の健康維持増進に関する研究<br />
+                  【趣味】ピアノ、読書 -->
+                  【研究内容】关于居住环境和增进居住者健康的研究<br />
+                  【兴趣】钢琴、读书
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1234,8 +1408,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
-                  【研究内容】住環境と居住者の健康維持増進に関する研究<br />
-                  【趣味】ディズニー、映画観賞
+                  <!-- 【研究内容】住環境と居住者の健康維持増進に関する研究<br />
+                  【趣味】ディズニー、映画観賞 -->
+                  【研究内容】关于居住环境和增进居住者健康的研究<br />
+                  【兴趣】迪士尼、电影观赏
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B4</span>
                   </div>
@@ -1261,8 +1437,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】音楽、愛猫のお世話、あつ森 -->
                   【研究内容】未定<br />
-                  【趣味】音楽、愛猫のお世話、あつ森
+                  【兴趣】音乐、爱猫的照顾、厚森
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1284,8 +1462,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】スポーツ観戦、楽器、Youtube -->
                   【研究内容】未定<br />
-                  【趣味】スポーツ観戦、楽器、Youtube
+                  【兴趣】观看体育比赛、乐器、Youtube
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1307,8 +1487,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】海外旅行、chitchat、ロードワーク -->
                   【研究内容】未定<br />
-                  【趣味】海外旅行、chitchat、ロードワーク
+                  【兴趣】海外旅行、chitchat、公路工作
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1330,8 +1512,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】旅行、ドライブ、写真 -->
                   【研究内容】未定<br />
-                  【趣味】旅行、ドライブ、写真
+                  【兴趣】旅行、兜风、写真
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1353,8 +1537,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】映画、お出かけ、人の話を聞くこと -->
                   【研究内容】未定<br />
-                  【趣味】映画、お出かけ、人の話を聞くこと
+                  【兴趣】看电影、出门、听别人说话
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1376,8 +1562,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】ゲーム開発、哲学、カラオケ -->
                   【研究内容】未定<br />
-                  【趣味】ゲーム開発、哲学、カラオケ
+                  【兴趣】游戏开发、哲学、卡拉OK
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1399,8 +1587,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】サッカー観戦、ゲーム、ウイスキー -->
                   【研究内容】未定<br />
-                  【趣味】サッカー観戦、ゲーム、ウイスキー
+                  【兴趣】观看足球比赛、游戏、威士忌
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1422,8 +1612,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】読書、アニメ、本屋巡り -->
                   【研究内容】未定<br />
-                  【趣味】読書、アニメ、本屋巡り
+                  【兴趣】读书、动漫、逛书店
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1445,8 +1637,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】音楽、コーヒー、スポーツ観戦 -->
                   【研究内容】未定<br />
-                  【趣味】音楽、コーヒー、スポーツ観戦
+                  【兴趣】音乐、咖啡、观看体育比赛
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1468,8 +1662,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】コーヒー、サイクリング、ドラム -->
                   【研究内容】未定<br />
-                  【趣味】コーヒー、サイクリング、ドラム
+                  【兴趣】咖啡、骑自行车、打鼓
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1491,8 +1687,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】YouTube、CRAFTHOLIC -->
                   【研究内容】未定<br />
-                  【趣味】YouTube、CRAFTHOLIC
+                  【兴趣】YouTube、CRAFTHOLIC
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1537,8 +1735,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】マンガ、ゲーム、映画 -->
                   【研究内容】未定<br />
-                  【趣味】マンガ、ゲーム、映画
+                  【兴趣】漫画、游戏、电影
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1560,8 +1760,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】音楽、漫画、カフェ巡り -->
                   【研究内容】未定<br />
-                  【趣味】音楽、漫画、カフェ巡り
+                  【兴趣】音乐、漫画、咖啡馆巡游
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1583,8 +1785,10 @@
                   </h3>
                 </div>
                 <div class="pr-3 pb-2">
+                  <!-- 【研究内容】未定<br />
+                  【趣味】旅行、犬、音楽 -->
                   【研究内容】未定<br />
-                  【趣味】旅行、犬、音楽
+                  【兴趣】旅行、狗、音乐
                   <div style="position: absolute; bottom: 5px; right: 10px;">
                     <span class="text-muted h5">B3</span>
                   </div>
@@ -1598,10 +1802,14 @@
       <div id="OBOG" class="mt-5">
         <div class="bg-white py-5">
           <h2 class="text-center mb-0">OBOG</h2>
-          <p class="text-center text-muted small">川久保研究室の卒業生</p>
+          <p class="text-center text-muted small">
+            <!-- 川久保研究室の卒業生 -->
+            川久保研究室的毕业生
+          </p>
           <div class="py-3">
             <h3 class="h4 text-center">
-              2021年度卒
+              <!-- 2021年度卒 -->
+              2021年度毕
               <small class="text-muted">
                 （9名）
               </small>
@@ -1614,7 +1822,8 @@
                     <small class="text-muted">Rei Ishikawa</small>
                   </h3>
                   <p class="mt-2 mb-0">
-                    【研究内容】学術団体におけるSDGs達成に向けた取り組みの実態把握
+                    <!-- 【研究内容】学術団体におけるSDGs達成に向けた取り組みの実態把握 -->
+                    【研究内容】掌握学术团体达成SDGs的实际情况
                   </p>
                   <div style="position: absolute; bottom: 5px; right: 25px;">
                     <span class="text-muted h6">
@@ -1630,7 +1839,8 @@
                     <small class="text-muted">Kenta Oishi</small>
                   </h3>
                   <p class="mt-2 mb-0">
-                    【研究内容】全国の高断熱住宅における電力消費量・室内温熱環境の実態把握
+                    <!-- 【研究内容】全国の高断熱住宅における電力消費量・室内温熱環境の実態把握 -->
+                    【研究内容】掌握全国高绝热住宅的电力消费量、室内温热环境的实际情况
                   </p>
                   <div style="position: absolute; bottom: 5px; right: 25px;">
                     <span class="text-muted h6">
@@ -1646,7 +1856,8 @@
                     <small class="text-muted">Ryunosuke Tokuhara</small>
                   </h3>
                   <p class="mt-2 mb-0">
-                    【研究内容】全国の工務店におけるSDGsの取り組み状況に関する実態把握
+                    <!-- 【研究内容】全国の工務店におけるSDGsの取り組み状況に関する実態把握 -->
+                    【研究内容】了解全国工务店SDGs的实际情况
                   </p>
                   <div style="position: absolute; bottom: 5px; right: 25px;">
                     <span class="text-muted h6">
@@ -1662,7 +1873,8 @@
                     <small class="text-muted">Yuta Toyomi</small>
                   </h3>
                   <p class="mt-2 mb-0">
-                    【研究内容】拡張性の高いクラウド統合型設計環境の開発
+                    <!-- 【研究内容】拡張性の高いクラウド統合型設計環境の開発 -->
+                    【研究内容】开发可扩展的云集成设计环境
                   </p>
                   <div style="position: absolute; bottom: 5px; right: 25px;">
                     <span class="text-muted h6">
@@ -1678,7 +1890,8 @@
                     <small class="text-muted">Kodai Yamamoto</small>
                   </h3>
                   <p class="mt-2 mb-0">
-                    【研究内容】持続可能な社会の実現に向けた自治体によるSDGs推進の実態把握
+                    <!-- 【研究内容】持続可能な社会の実現に向けた自治体によるSDGs推進の実態把握 -->
+                    【研究内容】为了实现可持续社会，自治体掌握推进SDGs的实际情况
                   </p>
                   <div style="position: absolute; bottom: 5px; right: 25px;">
                     <span class="text-muted h6">
@@ -1694,11 +1907,13 @@
                     <small class="text-muted">Kishin Enomoto</small>
                   </h3>
                   <p class="mt-2 mb-0">
-                    【研究内容】住環境と居住者の健康維持増進に関する研究
+                    <!-- 【研究内容】住環境と居住者の健康維持増進に関する研究 -->
+                    【研究内容】关于居住环境和增进居住者健康的研究
                   </p>
                   <div style="position: absolute; bottom: 5px; right: 25px;">
                     <span class="text-muted h6">
-                      卒業
+                      <!-- 卒業 -->
+                      毕业
                     </span>
                   </div>
                 </div>
@@ -1710,11 +1925,13 @@
                     <small class="text-muted">Tomoaki Oyama</small>
                   </h3>
                   <p class="mt-2 mb-0">
-                    【研究内容】SDGsと住まい・住まい方に関する研究
+                    <!-- 【研究内容】SDGsと住まい・住まい方に関する研究 -->
+                    【研究内容】关于SDGs和居住方式的研究
                   </p>
                   <div style="position: absolute; bottom: 5px; right: 25px;">
                     <span class="text-muted h6">
-                      卒業
+                      <!-- 卒業 -->
+                      毕业
                     </span>
                   </div>
                 </div>
@@ -1726,11 +1943,13 @@
                     <small class="text-muted">Junna Kawaguchi</small>
                   </h3>
                   <p class="mt-2 mb-0">
-                    【研究内容】CASBEEを用いた環境配慮建築の評価に関する研究
+                    <!-- 【研究内容】CASBEEを用いた環境配慮建築の評価に関する研究 -->
+                    【研究内容】关于使用CASBEE评价环保建筑的研究
                   </p>
                   <div style="position: absolute; bottom: 5px; right: 25px;">
                     <span class="text-muted h6">
-                      卒業
+                      <!-- 卒業 -->
+                      毕业
                     </span>
                   </div>
                 </div>
@@ -1742,11 +1961,13 @@
                     <small class="text-muted">Maho Nasukawa</small>
                   </h3>
                   <p class="mt-2 mb-0">
-                    【研究内容】住宅のエネルギーマネジメントに関する研究
+                    <!-- 【研究内容】住宅のエネルギーマネジメントに関する研究 -->
+                    【研究内容】住宅能源管理研究
                   </p>
                   <div style="position: absolute; bottom: 5px; right: 25px;">
                     <span class="text-muted h6">
-                      卒業
+                      <!-- 卒業 -->
+                      毕业
                     </span>
                   </div>
                 </div>
@@ -1755,7 +1976,8 @@
           </div>
           <div class="mt-3 text-right px-3 px-md-5">
             <a href="https://kawakubo-lab.ws.hosei.ac.jp/about/obog/2020">
-              2020年度以前の卒業生
+              <!-- 2020年度以前の卒業生 -->
+              2020年度以前的毕业生
               <svg
                 class="svg-inline--fa fa-arrow-circle-right fa-w-16"
                 aria-hidden="true"
